@@ -1,0 +1,29 @@
+{
+    "_meta": {
+        "hash": {
+            "sha256": "13ccd3c01dc7a7133cede635c1aade5336e66486ff705b8422d219b25d320c3b"
+        },
+        "pipfile-spec": 6,
+        "requires": {
+            "python_full_version": "3.11.12",
+            "python_version": "3.11"
+        },
+        "sources": [
+            {
+                "name": "pypi",
+                "url": "https://pypi.org/simple",
+                "verify_ssl": true
+            }
+        ]
+    },
+    "default": {
+        "bencodepy": {
+            "hashes": [
+                "sha256:af472134d73ea58edab3c2cb2f2cf61eb9d783908284c3d2d5b1cfd38df864b8"
+            ],
+            "index": "pypi",
+            "version": "==0.9.5"
+        }
+    },
+    "develop": {}
+}
