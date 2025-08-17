@@ -5,6 +5,7 @@ name = "pypi"
 
 [packages]
 bencodepy = "*"
+requests = "*"
 
 [dev-packages]
 
